@@ -1,0 +1,15 @@
+DEPTH = 256;
+WIDTH = 4;
+ADDRESS_RADIX = DEC;
+DATA_RADIX = BIN;
+
+CONTENT
+BEGIN
+[0..7] : 0000;
+0      : 0000;
+1      : 0010;
+2      : 0101;
+3      : 0100;
+4      : 1101;
+5      : 1100;
+END
